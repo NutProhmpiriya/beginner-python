@@ -1,0 +1,11 @@
+01.setup & installation
+02.basic syntax: indetation, keywords, comments
+03.variables & data types
+04.operators
+05.control flow: conditional & loops 
+06.functions
+07.classes & objects
+07.modules, libraies
+08.error handling
+09.file
+
